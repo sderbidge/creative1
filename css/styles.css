@@ -1,22 +1,3 @@
-/* .navbar {
-    background-color: #CCEDFF !important;
-}
-
-
-.nav-link {
-    color: #667780 !important;
-}
-
-.nav-link:hover {
-    color: #2B6280 !important;
-}
-
-.navbar-brand {
-    font-weight: bold !important;
-    color: #64C6FF !important;
-}
-
-*/
 .container1 {
     display: flex;
     justify-content: center;
@@ -57,4 +38,94 @@
 .footer a {
     padding: 15px;
     margin: 15px;
+}
+
+.zion_holder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.zion-img {
+    width: 50%;
+    padding: 20px;
+}
+
+.zion-content {
+    width: 50%;
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.zion-content h1 {
+    padding: 15px;
+    background-color: rgb(238, 161, 46);
+    color: #fff;
+    text-align: center;
+}
+
+.zion-content p {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.rainbow_holder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.rainbow-img {
+    width: 47%;
+    padding: 5px 20px;
+}
+
+.rainbow-content {
+    width: 50%;
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.rainbow-content h1 {
+    padding: 15px;
+    background-color: rgb(238, 161, 46);
+    color: #fff;
+    text-align: center;
+}
+
+.rainbow-content p {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.bryce_holder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bryce-img {
+    width: 50%;
+    padding: 20px;
+}
+
+.bryce-content {
+    width: 50%;
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.bryce-content h1 {
+    padding: 15px;
+    background-color: rgb(238, 161, 46);
+    color: #fff;
+    text-align: center;
+}
+
+.bryce-content p {
+    padding: 10px;
+    font-size: 18px;
 }
