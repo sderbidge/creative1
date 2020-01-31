@@ -1,4 +1,4 @@
-#front-image {
+.front-image {
     width: 100%;
 }
 
@@ -125,13 +125,13 @@
     font-size: 18px;
 }
 
-#front-image2 {
+.front-image2 {
     width: 100%;
     border-bottom: 10px solid rgb(33, 37, 41);
 }
 
-#about-header {
-    background-color: rgb(160, 90, 25);
+.header {
+    background-color: rgb(46, 46, 46);
     color: #fff;
     text-align: center;
     padding: 15px;
@@ -167,4 +167,24 @@
 #map-img {
     width: 100%;
     margin: 20px;
+}
+
+#contact-header {
+    background-color: rgb(46, 46, 46);
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#form-style {
+    padding: 10px;
+    margin: 15px 30%;
+}
+
+.announcement {
+    padding: 15px;
+    margin: 15px;
+    text-align: center;
+    color: rgb(238, 161, 46)
 }
