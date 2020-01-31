@@ -23,15 +23,19 @@
 }
 
 .footer {
+    padding: 10px;
     width: 100%;
-    height: 60px;
-    line-height: 60px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
     background-color: rgb(33, 37, 41);
 }
 
-.footer a {
-    padding: 15px;
-    margin: 15px;
+.footer a,
+.footer p {
+    padding: 10px;
+    margin: 10px;
+    color: #fff;
 }
 
 .zion_holder {
